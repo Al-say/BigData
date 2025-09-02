@@ -1,0 +1,35 @@
+# Obsidian 笔记配置文件
+.obsidian/
+
+# macOS 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+
+# 压缩包文件
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.iml
+
+# 系统缓存
+.cache/
+.npm/
+node_modules/
