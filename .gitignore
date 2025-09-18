@@ -1,6 +1,30 @@
 # Obsidian 笔记配置文件
 .obsidian/
 
+# 音频文件夹和媒体文件
+audio/
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.mp4
+*.avi
+*.mkv
+
+# Python 相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+
 # macOS 系统文件
 .DS_Store
 .DS_Store?
